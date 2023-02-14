@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Immersive Tshirt</string>
+    <string name="correo">Correo Electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="confirmarContrasena">Confirmar Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="registro">Registro</string>
+    <string name="regresar">Regresar</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="registrar">Registrar</string>
+    <string name="datosIncorrectos">Datos incorrectos</string>
+    <string name="valorInvalido">El campo es requerido</string>
+    <string name="contrasenaDiferente">La contraseña no coincide</string>
+</resources>
